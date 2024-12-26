@@ -33,10 +33,6 @@ Author URL: https://themeforest.net/user/thememor
 
 /* GLOBAL STYLES */
 
-*{
-	border: 1px solid black;
-}
-
 body {
 	background: #fff;
 	font-family: 'Open Sans', sans-serif;
@@ -942,8 +938,8 @@ box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
 
 .btn.btn-primary:hover {
 	border: 3px solid #033D3C !important;
- background: transparent;
- color: #033D3C;
+ 	background: transparent;
+ 	color: #033D3C;
 }
 
 .btn.btn-default {
@@ -986,7 +982,6 @@ box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
 	font-weight: 700;
 	font-size: 15px;
 	letter-spacing: 0.025em;
-	color: #343434333;
 	border: 3px solid #0a2233;
 	text-align: center;
 	text-transform: uppercase;
