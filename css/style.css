@@ -33,6 +33,10 @@ Author URL: https://themeforest.net/user/thememor
 
 /* GLOBAL STYLES */
 
+*{
+	border: 1px solid black;
+}
+
 body {
 	background: #fff;
 	font-family: 'Open Sans', sans-serif;
